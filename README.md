@@ -1,9 +1,3 @@
-### **README.md**
-# Zigment
-
-
----
-
 # **User Notification API**
 
 The **User Notification API** is a serverless application built with NestJS. It provides a robust system for managing user notification preferences and sending notifications via multiple channels (email, SMS, push). The API includes features like validation, rate limiting, error handling, and notification logs.
