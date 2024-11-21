@@ -4,8 +4,9 @@ The **User Notification API** is a serverless application built with NestJS. It 
 
 ---
 ## **Images**
-![Screenshot 2024-11-21 220521](https://i.ibb.co/fDvvYXh/Screenshot-2024-11-21-220521.png)
-![Screenshot 2024-11-21 220542](https://i.ibb.co/Ypjt2Fs/Screenshot-2024-11-21-220542.png)
+![Screenshot 1](https://i.ibb.co/5Bc5TgH/Screenshot-2024-11-21-220542.png)
+![Screenshot 2](https://i.ibb.co/wcssNd9/Screenshot-2024-11-21220521.png)
+
 ## **Features**
 
 - **User Preferences**:
