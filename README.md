@@ -3,7 +3,9 @@
 The **User Notification API** is a serverless application built with NestJS. It provides a robust system for managing user notification preferences and sending notifications via multiple channels (email, SMS, push). The API includes features like validation, rate limiting, error handling, and notification logs.
 
 ---
-
+## **Images**
+![Screenshot 2024-11-21 220521](https://i.ibb.co/fDvvYXh/Screenshot-2024-11-21-220521.png)
+![Screenshot 2024-11-21 220542](https://i.ibb.co/Ypjt2Fs/Screenshot-2024-11-21-220542.png)
 ## **Features**
 
 - **User Preferences**:
